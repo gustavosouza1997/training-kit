@@ -1,4 +1,5 @@
 # Kit de treinamento do GitHub
+# Adcionado esse trecho de código para criar um conflito ao fazer merge.
 
 Material didático de código aberto da equipe de Serviços Profissionais do GitHub.
 
