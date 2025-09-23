@@ -38,6 +38,4 @@ Isso significa que você pode usar o conteúdo e o código deste repositório, e
 
 Ao contribuir para este repositório, você o faz sob as licenças acima.
 
-Traduzido com a versão gratuita do tradutor - DeepL.com
-
 ## Gustavo Alex de Souza edited this file in 09/22/25 and translated it to Brazilian Portuguese for his Software Engineering class
